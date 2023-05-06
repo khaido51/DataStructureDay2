@@ -1,4 +1,4 @@
 # DataStructureDay2
 Fibonacci Questions O(n)
-![image](https://user-images.githubusercontent.com/36833306/236587706-1e8ee2e8-a360-4367-99fc-b560b46c172d.png)
 
+![fibo](https://user-images.githubusercontent.com/36833306/236587810-6519a39e-7ae2-4838-940b-aaeff159c616.PNG)
